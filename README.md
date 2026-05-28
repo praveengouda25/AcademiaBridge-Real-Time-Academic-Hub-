@@ -1,8 +1,8 @@
-# NimmaGuru Connect Application
+# AcademiaBridge – Real-Time Academic Hub 
 
 ## Project Overview
 
-NimmaGuru Connect is an Android-based healthcare support application developed to improve emergency blood donation management and communication between blood donors, patients, and hospitals. The application provides a real-time digital platform that helps users quickly find compatible blood donors during medical emergencies.
+AcademiaBridge – Real-Time Academic Hub  is an Android-based healthcare support application developed to improve emergency blood donation management and communication between blood donors, patients, and hospitals. The application provides a real-time digital platform that helps users quickly find compatible blood donors during medical emergencies.
 
 Traditionally, finding blood donors during emergencies depends heavily on phone calls, social media posts, and personal contacts, which often causes delays and confusion. NimmaGuru Connect addresses this problem by offering a structured, fast, and cloud-connected solution that simplifies donor registration, emergency blood requests, and donor matching.
 
